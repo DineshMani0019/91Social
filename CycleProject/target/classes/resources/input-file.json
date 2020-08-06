@@ -1,0 +1,24 @@
+[
+	{
+		"cycle": {
+			"frame": "carbon",
+			"handlebar": "aero",
+			"sticker": "marvel",
+			"mudguard": "micro",
+			"wheel": "tubeless",
+			"seat": "racing",
+			"chain-assembly": "4"
+		}
+	},
+	{
+		"cycle": {
+			"frame": "aluminium",
+			"handlebar": "riser",
+			"sticker": "pokemon",
+			"mudguard": "fixed",
+			"wheel": "rim",
+			"seat": "mountain",
+			"chain-assembly": "4"
+		}
+	}
+]

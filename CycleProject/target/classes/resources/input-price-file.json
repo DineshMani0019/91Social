@@ -1,0 +1,27 @@
+[
+	{
+		"spec": "frame",
+		"key": "carbon",
+		"value": 25
+	},
+	{
+		"spec": "frame",
+		"key": "aluminium",
+		"value": 15
+	},
+	{
+		"spec": "handlebar",
+		"key": "riser",
+		"value": 15
+	},
+	{
+		"spec": "chain-assembly",
+		"key": "4",
+		"value": 15
+	},
+	{
+		"spec": "sticker",
+		"key": "fluorescent",
+		"value": 45
+	}
+]
